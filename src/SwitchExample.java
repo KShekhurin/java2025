@@ -41,7 +41,7 @@ void main() {
         case BLUE -> System.out.println("enum: Синий");
     }
 
-    // ===== 6. String =====
+    //String
     String day = "MONDAY";
     switch (day) {
         case "MONDAY" -> System.out.println("String: Понедельник");
