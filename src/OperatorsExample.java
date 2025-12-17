@@ -84,5 +84,4 @@ void main() {
     // 11. Конкатенация String с другими типами
     System.out.println("String + int: " + ("Value = " + m));
     System.out.println("String + boolean: " + ("Flag = " + flag));
-    System.out.println("String + double: " + ("Double = " + d));
 }
